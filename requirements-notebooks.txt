@@ -10,6 +10,8 @@ scipy
 seaborn
 gensim
 scikit-learn
+# Install CUDA build on GPU machines, e.g.:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu124
 torch
 transformers==4.44.2
 datasets
