@@ -1,6 +1,6 @@
 # Interactive Notebooks — Statistical Foundations of LLMs
 
-Interactive Jupyter notebooks accompanying the lecture slides (`presentation/RodriguesPC_LLM (1).pptx`). Designed for a graduate audience, including participants who have **never used Python or Jupyter** before. Each notebook opens with a 2-minute Jupyter primer and alternates explanatory Markdown, runnable code, visual output, and exercises with optional solutions.
+Interactive Jupyter notebooks accompanying the lecture slides (`presentation/RodriguesPC_LLM (1).pptx`).Each notebook opens with a 2-minute Jupyter primer and alternates explanatory Markdown, runnable code, visual output, and exercises with optional solutions.
 
 ## How to run
 
@@ -26,6 +26,5 @@ All LLM work uses **open models** (BioGPT, FLAN-T5, GPT-2, DistilBERT, T5-small)
 
 Every notebook follows the course style guide: Title → Learning objectives → Jupyter primer → Background → Imports → step-by-step examples → interactive exercises → challenge exercises → discussion questions → key takeaways → references. Random seeds are set for reproducibility.
 
-See `COURSE_SUGGESTIONS.md` for proposed improvements to the slide deck and course flow.
 
 Pre-run solution notebooks (with outputs) are in [`solutions_executed/`](solutions_executed/).
