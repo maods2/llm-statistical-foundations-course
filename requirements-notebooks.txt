@@ -1,0 +1,21 @@
+# Unified dependencies for course notebooks (local / Colab)
+jupyter
+nbconvert
+papermill
+nltk
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+gensim
+scikit-learn
+torch
+transformers==4.44.2
+datasets
+evaluate
+accelerate
+sentencepiece
+sacremoses
+rouge-score
+ipykernel

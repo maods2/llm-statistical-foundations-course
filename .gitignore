@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+scripts/
+notebooks/_test_outputs/
+notebooks/COURSE_SUGGESTIONS.md
+notebooks/TESTING.md
+notebooks/solutions_executed/README.md
+notebooks/solutions_executed/_logs/
+notebooks/solutions/*-rotten/
+notebooks/solutions/distil-rotten/
+notebooks/solutions/distil-*/
+notebooks/solutions/bert-rotten/
+notebooks/solutions/README.md
+presentation/
